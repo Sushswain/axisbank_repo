@@ -1,2 +1,3 @@
 uname=asok
 pwd=ashok@123
+email:s@gmail.com
