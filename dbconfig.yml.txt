@@ -1,0 +1,2 @@
+uname=ashok
+passwd=ashok@123
